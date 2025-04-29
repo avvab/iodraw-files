@@ -50,8 +50,8 @@
         </mxCell>
         <mxCell id="ZXKnd90OYIVoaPYICgb8-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="219.5" y="40" as="sourcePoint" />
-            <mxPoint x="219.5" y="90" as="targetPoint" />
+            <mxPoint x="219.5" y="30" as="sourcePoint" />
+            <mxPoint x="219.5" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
